@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497045225879",
+    "firebase_url": "https://myphoneshop-ac920.firebaseio.com",
+    "project_id": "myphoneshop-ac920",
+    "storage_bucket": "myphoneshop-ac920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497045225879:android:1e493e2c96e08175",
+        "android_client_info": {
+          "package_name": "com.popland.pop.shoponline_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497045225879-07a9v3pnacf7c5u3k6rodmucfuec4jr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.popland.pop.shoponline_demo",
+            "certificate_hash": "B47060E140BA3A9C9E6F48F59FFCCDA4FFBD0322"
+          }
+        },
+        {
+          "client_id": "497045225879-vo834ogkvgsi17kq74rooug5pjcfinb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCdWoP9E_SUJ6av0vPY9Sgis2YRckQHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497045225879-vo834ogkvgsi17kq74rooug5pjcfinb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
